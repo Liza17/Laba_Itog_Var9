@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Benchmark/Benchmark.vcxproj" Id="75899ada-9015-4a0a-a636-8f8fd1dc0600" />
+  <Project Path="Generator/Generator.vcxproj" Id="8bca88ee-8027-4f1d-b992-3cd3d48ff441" />
+  <Project Path="Lab_Final_09/Lab_Final_09.vcxproj" Id="4102267c-2ea5-4900-875a-b5752c33872e" />
+  <Project Path="Tests/Tests.vcxproj" Id="931faf92-bc2e-4f53-918c-996d1b678999" />
+</Solution>

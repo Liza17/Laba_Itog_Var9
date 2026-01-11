@@ -1,0 +1,8 @@
+=== Running Parser Tests ===
+[RUN] Primitives Parsing... OK
+[RUN] Array Parsing... OK
+[RUN] Object Parsing... OK
+[RUN] Nested Structures... OK
+[RUN] String Escaping... OK
+[RUN] Error Handling... OK
+=== All Tests Passed ===

@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+out/
+x64/
+Debug/
+Release/
+*.user
+*.aps
+*.opendb
+*.pdb
+*.exe
+*.obj
+*.idb
+*.tlog
+
+# Project specific
+data/example_huge.json
+# (Оставляем example_valid.json, но игнорируем огромный сгенерированный файл, чтобы не забивать гит)
